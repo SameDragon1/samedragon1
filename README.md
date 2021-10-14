@@ -1,7 +1,7 @@
-### Hi there, I'm Michael - aka [aka][akalink]
+### Hi there, I'm Michael - aka [SameDragon][akalink]
 
 ## I'm a Gamer, Developer, and Twitch Streamer!
-- I'm currently working on [currentprojectname][currentprojectwebsite]
+- I'm currently working on [Info Coming Soon][currentprojectwebsite]
 - 🌱 I'm currently learning everything
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Start a FiveM Server / Help Develop/Manage a FiveM Server
@@ -11,8 +11,9 @@
 
 ### Connect with me:
 
-[Steam Profile][steam]
-[Tiwtch.Tv][twitch]
+[Steam][steamlnk]
+
+[Tiwtch][twitch]
 
 <br />
 <br />
@@ -35,14 +36,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  Status Coming Soon!
 
 </details>
-[aka]: SameDragon
-[akalink]: https://steamcommunity.com/id/samedragon
-[steam]: https://steamcommunity.com/id/samedragon
+
+[steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[currentprojectname]: Info Coming Soon
 [currentprojectwebsite]: Website Coming Soon
