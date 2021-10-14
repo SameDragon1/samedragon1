@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - aka [SameDragon][akalink]
+### Hi there, I'm Michael - aka [SameDragon][steamlnk]
 
 ## I'm a Gamer, Developer, and Twitch Streamer!
 - I'm currently working on [Info Coming Soon][currentprojectwebsite]
@@ -42,4 +42,4 @@
 
 [steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
-[currentprojectwebsite]: Website Coming Soon
+[currentprojectwebsite]: https://github.com/amichaelbaum
