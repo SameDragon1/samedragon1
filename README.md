@@ -35,6 +35,7 @@
   ![SameDragon1's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedragon1&count_private=true&show_icons=true&theme=onedark)
 
 </details>
+
 [steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
 [currentprojectwebsite]: https://github.com/amichaelbaum
