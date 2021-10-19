@@ -14,6 +14,7 @@
 [Steam][steamlnk]
 
 [Tiwtch][twitch]
+
 <br />
 ---
 <details>
@@ -26,11 +27,9 @@
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
-
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   ![SameDragon1's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedragon1&count_private=true&show_icons=true&theme=onedark)
 
 </details>
