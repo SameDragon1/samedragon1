@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [SameDragon][steamlnk]
 
 ## I'm a Gamer, Developer, and Twitch Streamer!
-- I'm currently working on [Info Coming Soon][currentprojectwebsite]
+- I'm currently working on a [FiveM Server][currentprojectwebsite]
 - 🌱 I'm currently learning everything
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Start a FiveM Server / Help Develop/Manage a FiveM Server
