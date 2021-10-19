@@ -8,11 +8,13 @@
 - ⚡ Fun fact: I love to play video games, setup game servers, Teamspeak 3 & Discord Voice Servers
 
 <br />
+
 ### Connect with me:
 
 [Steam][steamlnk]
 
 [Tiwtch][twitch]
+
 <br />
 ---
 <details>
