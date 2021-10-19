@@ -30,6 +30,7 @@
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   ![SameDragon1's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedragon1&count_private=true&show_icons=true&theme=onedark)
 
 </details>
