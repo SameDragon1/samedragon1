@@ -37,4 +37,4 @@
 
 [steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
-[currentprojectwebsite]: Coming Soon!
+[currentprojectwebsite]: https://github.com/samedragon1/
