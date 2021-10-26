@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [SameDragon][steamlnk]
 
 ## I'm a Gamer, Developer, and Twitch Streamer!
-- I'm currently working on a [FiveM Server][currentprojectwebsite]
+- I'm currently working on a [Garry's Mod Server][currentprojectwebsite]
 - 🌱 I'm currently learning everything
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Start a FiveM Server / Help Develop/Manage a FiveM Server
@@ -19,7 +19,7 @@
 ---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  UPDATE COMING SOON!
+  ❌ Closed FiveM Server Repo. [#1](https://github.com/SameDragonRP/server) in [samedragonrp/server](https://github.com/SameDragonRP)
 <!--START_SECTION:activity
 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
@@ -37,4 +37,4 @@
 
 [steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
-[currentprojectwebsite]: https://github.com/SameDragonRP
+[currentprojectwebsite]: Coming Soon!
