@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Developer, and Twitch Streamer!
 - I'm currently working on a [Garry's Mod Server][currentprojectwebsite]
-- 🌱 I'm currently learning everything
+- 🌱 I'm currently re-learning GLua
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Start a FiveM Server / Help Develop/Manage a FiveM Server
 - ⚡ Fun fact: I love to play video games, setup game servers, Teamspeak 3 & Discord Voice Servers
