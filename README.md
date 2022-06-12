@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael - aka [SameDragon][steamlnk]
 
-## I'm a Gamer, Developer, and Twitch Streamer!
+## I'm a Gamer and Server Developer!
 - I'm currently working on a [Garry's Mod Server][currentprojectwebsite]
 - 🌱 I'm currently re-learning GLua
 - 👯 I'm looking to collaborate with other content creators
