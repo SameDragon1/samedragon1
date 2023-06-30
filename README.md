@@ -13,4 +13,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=samedragon1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ---
-[![](https://visitcount.itsvg.in/api?id=samedragon1&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samedragon1&icon=2&color=4)](#)
