@@ -11,6 +11,7 @@
 
 ### Connect with me:
 
+Discord: @samedragon | SameDragon#0001
 [Steam][steamlnk]
 
 [Tiwtch][twitch]
@@ -27,4 +28,3 @@
 [steamlnk]: https://steamcommunity.com/id/samedragon
 [twitch]: http://twitch.tv/samedragon1
 [currentprojectwebsite]: https://github.com/samedragon1/
-[currentproject]: Garry's Mod RolePlay Server
