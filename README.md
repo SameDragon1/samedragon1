@@ -10,7 +10,7 @@
 <br />
 
 <br />
-        <summary>### Connect with me:</summary>
+        <summary>Connect with me:</summary>
     <details>
         Discord: @samedragon | SameDragon#0001
         [Steam][steamlnk]
