@@ -12,6 +12,7 @@
 ### Connect with me:
 
 Discord: @samedragon | SameDragon#0001
+
 [Steam][steamlnk]
 
 [Tiwtch][twitch]
