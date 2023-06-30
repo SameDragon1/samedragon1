@@ -10,12 +10,12 @@
 <br />
 
 ### Connect with me:
-
-Discord: @samedragon | SameDragon#0001
-
-[Steam][steamlnk]
-
-[Tiwtch][twitch]
+<br />
+<details>
+    Discord: @samedragon | SameDragon#0001
+    [Steam][steamlnk]
+    [Tiwtch][twitch]
+</details>
 
 <br />
 ---
