@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [SameDragon][steamlnk]
 
 ## I'm a Gamer and Game Server Developer!
-- I'm currently working on [][currentprojectwebsite]
+- I'm currently working on [Garry's Mod RP Server][currentprojectwebsite]
 - 🌱 I'm currently re-learning GLua
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021-2022 Goals: Start a Garry's Mod Server / Help Develop/Manage a Garry's Mod Server
