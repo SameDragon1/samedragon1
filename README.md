@@ -12,6 +12,7 @@
 <br />
         <summary>Connect with me:</summary>
     <details>
+        <summary></summary>
         Discord: @samedragon | SameDragon#0001
         [Steam][steamlnk]
         [Tiwtch][twitch]
