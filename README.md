@@ -9,8 +9,8 @@
 
 <br />
 
-<br />
         <summary>Connect with me:</summary>
+<br />
     <details>
         <summary></summary>
         Discord: @samedragon | SameDragon#0001
