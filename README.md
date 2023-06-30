@@ -10,8 +10,8 @@
 <br />
 
 <br />
-    <details>
         <summary>### Connect with me:</summary>
+    <details>
         Discord: @samedragon | SameDragon#0001
         [Steam][steamlnk]
         [Tiwtch][twitch]
