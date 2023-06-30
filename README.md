@@ -9,10 +9,9 @@
 
 <br />
 
-        <summary>Connect with me:</summary>
 <br />
     <details>
-        <summary></summary>
+        <summary>Connect with me:</summary>
         Discord: @samedragon | SameDragon#0001
         [Steam][steamlnk]
         [Tiwtch][twitch]
